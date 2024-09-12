@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Build directory
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Various editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Specific directories
+.anaconda/
+.android/
+Labs/4/
